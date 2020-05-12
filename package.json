@@ -1,0 +1,30 @@
+{
+  "name": "tacoslandscaping",
+  "version": "1.0.0",
+  "description": "website to promote the landscaping services of a family friend",
+  "main": "server.js",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "express": "^4.17.1",
+    "if-env": "^1.0.4"
+  },
+  "devDependencies": {
+    "concurrently": "^5.2.0",
+    "nodemon": "^2.0.3"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ahaymond-dev/TacosLandscaping.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ahaymond-dev/TacosLandscaping/issues"
+  },
+  "homepage": "https://github.com/ahaymond-dev/TacosLandscaping#readme"
+}
