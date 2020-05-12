@@ -5,7 +5,7 @@ function Footer() {
         <div className="text-center">
            <nav className="navbar navbar-light bg-light justify-content-center sticky-bottom">
                 <span class="navbar-text">powered by:</span>
-                <a class="nav-item nav-link active" href="https://aus10haymond.herokuapp.com/">austenhaymond</a>
+                <a class="nav-item nav-link active" href="https://aus10haymond.herokuapp.com/" target="_blank" rel="noopener noreferrer">austenhaymond</a>
             </nav>
         </div>
     );
