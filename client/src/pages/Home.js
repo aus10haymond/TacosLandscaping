@@ -1,9 +1,18 @@
 import React from "react";
 
+import Title from "../components/title";
+import Logo from "../components/logo";
+import NavBar from "../components/navbar";
+
 function Home() {
     return (
-        <div className="container">
-
+        <div>
+            <Title />
+            <Logo />
+            <NavBar />
+            <div className="container">
+                
+            </div>
         </div>
     );
 }
