@@ -14,5 +14,5 @@ if (process.env.NODE_ENV === "production") {
 app.use(routes);
 
 app.listen(PORT, function() {
-    console.log(`Server listening on PORT: ${PORT} !`);
+    console.log(`Server listening on PORT: ${PORT}!`);
 });
