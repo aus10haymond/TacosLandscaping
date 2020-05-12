@@ -8,10 +8,12 @@ function Home() {
     return (
         <div>
             <Title />
+                <br />
             <Logo />
+                <br />
             <NavBar />
             <div className="container">
-                
+
             </div>
         </div>
     );
