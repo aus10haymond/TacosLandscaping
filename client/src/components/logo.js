@@ -1,9 +1,12 @@
 import React from "react";
+import "../assets/styles/logo.css";
+
+import logo from "../assets/images/logo.png";
 
 function Logo() {
     return (
         <div className="text-center">
-            <img src="..." className="rounded" alt="Logo" />
+            <img src={logo} className="rounded" alt="Logo" />
         </div>
     );
 }
