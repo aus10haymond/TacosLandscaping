@@ -4,7 +4,7 @@ function Title() {
     return (
         <div>
             <nav className="navbar navbar-light bg-light justify-content-center">
-                <span className="navbar-brand mb-0 h1">TACO'S LANDSCAPING</span>
+                <h1 className="masthead-heading text">TACO'S LANDSCAPING</h1>
             </nav>
         </div>
     );

@@ -18,10 +18,14 @@ function Home() {
             <Logo />
             <NavBar />
             <div className="container">
+                <br />
                 <About />
                 <Services />
+                <br />
                 <Gallery />
+                <br />
                 <Contact />
+                <br />
             </div>
             <Footer />
         </div>
