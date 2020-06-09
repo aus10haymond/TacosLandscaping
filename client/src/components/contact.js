@@ -5,15 +5,15 @@ function Contact() {
         <div id="contact">
             <h2 className="text-center">CONTACT</h2>
             <br />
-            <div class="card text-center row">
-                <ul class="list-group list-group-flush">
-                    <li class="list-group-item">
+            <div className="card text-center row">
+                <ul className="list-group list-group-flush">
+                    <li className="list-group-item">
                         <h5>
                             PHONE
                         </h5>
                         <a href="tel:123-456-7890">123-456-7890</a>
                     </li>
-                    <li class="list-group-item">
+                    <li className="list-group-item">
                         <h5>
                             EMAIL
                         </h5>
