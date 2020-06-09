@@ -11,7 +11,7 @@ function Contact() {
                         <h5>
                             PHONE
                         </h5>
-                        <a href="tel:123-456-7890">123-456-7890</a>
+                        <a href="tel:480-233-5632">(480) 233-5632</a>
                     </li>
                     <li className="list-group-item">
                         <h5>
