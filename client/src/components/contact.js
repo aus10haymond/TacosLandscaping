@@ -19,6 +19,12 @@ function Contact() {
                         </h5>
                         <a href="mailto:fake.email@gmail.com?Subject=Hello" target="_top">fake.email@gmail.com</a>
                     </li>
+                    <li className="list-group-item">
+                        <h5>
+                            FACEBOOK
+                        </h5>
+                        <a href="https://www.facebook.com/Tacos-Landscaping-111572150566066/" target="blank">Taco's Landscaping</a>
+                    </li>
                 </ul>
             </div>
         </div>
