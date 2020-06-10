@@ -10,6 +10,7 @@ import example4 from "../assets/images/example4.jpg";
 import example5 from "../assets/images/example5.jpg";
 import example6 from "../assets/images/example6.jpg";
 
+
 class Carousel extends React.Component {
 
   render() {
