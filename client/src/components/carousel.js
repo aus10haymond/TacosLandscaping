@@ -37,7 +37,11 @@ class Carousel extends React.Component {
     ]
 
     return (
-      <ImageGallery items={images} showThumbnails={false} autoPlay={true} slideInterval={4000} slideDuration={500}/>
+      <div id="galleryDiv">
+        <br />
+        <ImageGallery items={images} showThumbnails={false} autoPlay={true} slideInterval={4000} slideDuration={500}/>
+        <br />
+      </div>
     );
   }
 

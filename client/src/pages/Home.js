@@ -20,6 +20,7 @@ function Home() {
             <div className="container">
                 <br />
                 <About />
+                <br />
                 <Services />
                 <br />
                 <Gallery />

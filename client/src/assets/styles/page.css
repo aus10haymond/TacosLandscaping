@@ -1,4 +1,79 @@
-/* #body {
-    color: darkslategray;
-    border: darkslategray;
-} */
+#body {
+    background-color: #E5EEDA;
+    border-color: #455e14, 20px;
+    border: 20px;
+    background-image: url("../images/taco-icon-sm.png");
+    background-size: 190px;
+    background-repeat: repeat;
+}
+
+h2 {
+    color: #455e14;
+}
+
+p {
+    color: #7a9b57;
+}
+
+h5 {
+    color: #455e14;
+}
+
+h4 {
+    color: #455e14;
+}
+
+#navlink {
+    color: #455e14;
+}
+
+#portfolio {
+    color: #83951c;
+}
+
+#contactLink {
+    color: #83951c;
+}
+
+#contactLink:hover {
+    color: #83951c;
+}
+
+a {
+    color: #455e14;
+}
+
+a:hover {
+    color: #455e14;
+}
+
+.fas {
+    color: #455e14;
+}
+
+.card {
+    background-color: #fafafa;
+}
+
+#navbar {
+    background-color: #fafafa;
+    border: #455e14;
+    border-width: 5px;
+}
+
+#contactItem {
+    background-color: #fafafa;
+    border: 0px;
+}
+
+#footerText {
+    color: #7a9b57;
+}
+
+#aboutUs {
+    background-color: #fafafa;
+}
+
+#galleryDiv {
+    background-color: #fafafa;
+}

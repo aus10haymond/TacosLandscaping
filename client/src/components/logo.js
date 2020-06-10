@@ -5,7 +5,7 @@ import logo from "../assets/images/logo.png";
 
 function Logo() {
     return (
-        <div className="text-center">
+        <div id="logo" className="text-center">
             <img src={logo} className="rounded" alt="Logo" />
         </div>
     );
