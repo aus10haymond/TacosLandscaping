@@ -14,7 +14,7 @@ import "../assets/styles/page.css";
 function Home() {
     return (
         <div id="body">
-            <Title />
+            {/* <Title /> */}
             <Logo />
             <NavBar />
             <div className="container">

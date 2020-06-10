@@ -4,6 +4,7 @@ function Contact() {
     return (
         <div id="contact">
             <h2 className="text-center">CONTACT</h2>
+            <p className="text-center">Reach out to us today and let us know how we can help you!</p>
             <br />
             <div className="card text-center row">
                 <ul className="list-group list-group-flush">
