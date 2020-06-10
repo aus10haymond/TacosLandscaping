@@ -18,7 +18,7 @@ function Contact() {
                         <h5>
                             EMAIL
                         </h5>
-                        <a href="mailto:fake.email@gmail.com?Subject=Hello" target="_top">fake.email@gmail.com</a>
+                        <a href="mailto:josepepesanchez2014@gmail.com?Subject=Taco's Landscaping" target="_top">josepepesanchez2014@gmail.com</a>
                     </li>
                     <li className="list-group-item">
                         <h5>
