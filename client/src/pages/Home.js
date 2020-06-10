@@ -1,6 +1,6 @@
 import React from "react";
 
-import Title from "../components/title";
+// import Title from "../components/title";
 import Logo from "../components/logo";
 import NavBar from "../components/navbar";
 import About from "../components/about";
