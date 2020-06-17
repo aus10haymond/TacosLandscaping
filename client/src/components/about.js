@@ -5,9 +5,12 @@ function About() {
         <div className="container" id="about">
             <h2 className="text-center">ABOUT US</h2>
             <br />
-            <div id="aboutUs" className="card justify-content-center text-center">
+            <div id="aboutUs" className="card">
                 <p>
-                    Exercitation tempor ex magna qui officia officia. Commodo ad dolore consectetur do Lorem eiusmod ea ea id irure mollit. Ut reprehenderit eiusmod dolore quis adipisicing. Commodo fugiat id irure eu non dolore mollit aliquip et. Enim dolor eu ullamco ad. Eu anim enim aliqua quis mollit sit cillum mollit sint. Nisi veniam esse aliquip pariatur. Dolore in irure irure dolore sunt dolor consequat ea laborum magna excepteur esse ut mollit. Exercitation quis tempor eiusmod pariatur esse ex qui officia eu elit enim. Qui do culpa eiusmod dolor Lorem anim magna occaecat esse esse aute non commodo.
+                    Taco's Landscaping is a small, family-owned business that has been serving Arizona residents for 20 years. We are a father and son team. Eustaquio is known as "Taco" because it just seems easier to say! With his expertise in all things landscaping, he will get the job done right. Jose primarily takes care of administrative tasks.
+                </p>
+                <p>
+                    Together, we are committed to providing quality work for a fair price, allowing people to beautify their homes and lives. We love landscaping and leaving the world a better and more beautiful place than we found it. We are excited to have the opportunity to work with you and bring your vision to life!
                 </p>
             </div>
         </div>
