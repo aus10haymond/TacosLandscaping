@@ -12,7 +12,7 @@ function SpanishNavBar() {
                 <a id="navLink" className="nav-item nav-link js-scroll-trigger" href="#services">SERVICIOS</a>
                 <a id="navLink" className="nav-item nav-link js-scroll-trigger" href="#gallery">FOTOS</a>
                 <a id="navLink" className="nav-item nav-link js-scroll-trigger" href="#contact">CONTACTO</a>
-                <a id="navLink" className="nav-item nav-link" href="/es">ENGLISH</a>
+                <a id="navLink" className="nav-item nav-link" href="/">ENGLISH</a>
             </div>
             </div>
         </nav>
