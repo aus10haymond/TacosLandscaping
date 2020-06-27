@@ -12,9 +12,9 @@ function NavBar() {
                 <a id="navLink" className="nav-item nav-link js-scroll-trigger" href="#services">SERVICES</a>
                 <a id="navLink" className="nav-item nav-link js-scroll-trigger" href="#gallery">GALLERY</a>
                 <a id="navLink" className="nav-item nav-link js-scroll-trigger" href="#contact">CONTACT</a>
-                <a id="navLink" className="nav-item nav-link" href="/es">ESPAÑOL</a>
             </div>
-            </div>
+            </div>                
+            <a id="navLink" className="nav-item nav-link lang" href="/es">ESPAÑOL</a>
         </nav>
     );
 }
