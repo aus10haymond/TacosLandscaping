@@ -15,7 +15,9 @@ function Home() {
     return (
         <div id="body">
             {/* <Title /> */}
+            <br />
             <Logo />
+            <br />
             <NavBar />
             <div className="container">
                 <br />

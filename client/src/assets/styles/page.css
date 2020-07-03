@@ -53,6 +53,7 @@ a:hover {
 
 .card {
     background-color: #fafafa;
+    border-radius: 30px;
 }
 
 #navbar {
@@ -64,6 +65,7 @@ a:hover {
 #contactItem {
     background-color: #fafafa;
     border: 0px;
+    border-radius: 30px;
 }
 
 #footerText {
@@ -73,8 +75,22 @@ a:hover {
 #aboutUs {
     background-color: #fafafa;
     padding: 10px;
+    border-radius: 30px;
 }
 
 #galleryDiv {
     background-color: #fafafa;
+    border-radius: 30px;
+}
+
+#logo {
+    border-width: 2px;
+    border-color: #7a9b57;
+    border-radius: 30px;
+    height: 400px;
+}
+
+img {
+    height: 400px;
+    width: 400px;
 }
